@@ -20,6 +20,6 @@
         {"uid":  12, "player_id": 0, "population": 10, "level": 0, "units_until_upgrade": 0, "base_position": {"x":    2, "y":   2, "z":   0}},
         {"uid":  13, "player_id": 0, "population": 10, "level": 0, "units_until_upgrade": 0, "base_position": {"x":   -2, "y":   2, "z":   0}},
         {"uid":  14, "player_id": 0, "population": 10, "level": 0, "units_until_upgrade": 0, "base_position": {"x":   -2, "y":  -2, "z":   0}},
-        {"uid":  15, "player_id": 0, "population": 10, "level": 0, "units_until_upgrade": 0, "base_position": {"x":    2, "y":  -2, "z":   0}},
+        {"uid":  15, "player_id": 0, "population": 10, "level": 0, "units_until_upgrade": 0, "base_position": {"x":    2, "y":  -2, "z":   0}}
     ]
 }
