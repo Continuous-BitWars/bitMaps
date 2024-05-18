@@ -1,5 +1,5 @@
 {
-    "name": "Cube",
+    "name": "Line",
     "max_player_count": 2,
     "bases": [
         {"uid":  0, "player_id": 0, "population": 1000, "level": 0, "units_until_upgrade": 0, "base_position": {"x":  0, "y":  0, "z":  0}},
