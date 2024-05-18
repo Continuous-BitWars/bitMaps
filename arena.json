@@ -1,0 +1,25 @@
+{
+    "name": "Flo's 1 vs 1 Arena",
+    "max_player_count": 2,
+    "bases": [
+        {"uid":  1, "player_id": 1, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x":  -10, "y":   2, "z":   0}},
+        {"uid":  2, "player_id": 2, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x":   10, "y":   2, "z":   0}},
+        {"uid":  3, "player_id": 1, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x":  -10, "y":  -2, "z":   0}},
+        {"uid":  4, "player_id": 2, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x":   10, "y":  -2, "z":   0}},
+
+        {"uid":  5, "player_id": 0, "population": 10, "level": 0, "units_until_upgrade": 0, "base_position": {"x":    5, "y":   5, "z":   0}},
+        {"uid":  6, "player_id": 0, "population": 10, "level": 0, "units_until_upgrade": 0, "base_position": {"x":   -5, "y":   5, "z":   0}},
+        {"uid":  7, "player_id": 0, "population": 10, "level": 0, "units_until_upgrade": 0, "base_position": {"x":   -5, "y":  -5, "z":   0}},
+        {"uid":  8, "player_id": 0, "population": 10, "level": 0, "units_until_upgrade": 0, "base_position": {"x":    5, "y":  -5, "z":   0}},
+
+        {"uid":  9, "player_id": 0, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x":   -7, "y":   0, "z":   0}},
+        {"uid":  10, "player_id": 0, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x":    7, "y":   0, "z":   0}},
+
+        {"uid":  11, "player_id": 0, "population": 40, "level": 2, "units_until_upgrade": 0, "base_position": {"x":    0, "y":   0, "z":   0}},
+
+        {"uid":  12, "player_id": 0, "population": 10, "level": 0, "units_until_upgrade": 0, "base_position": {"x":    2, "y":   2, "z":   0}},
+        {"uid":  13, "player_id": 0, "population": 10, "level": 0, "units_until_upgrade": 0, "base_position": {"x":   -2, "y":   2, "z":   0}},
+        {"uid":  14, "player_id": 0, "population": 10, "level": 0, "units_until_upgrade": 0, "base_position": {"x":   -2, "y":  -2, "z":   0}},
+        {"uid":  15, "player_id": 0, "population": 10, "level": 0, "units_until_upgrade": 0, "base_position": {"x":    2, "y":  -2, "z":   0}},
+    ]
+}
