@@ -1,0 +1,366 @@
+{
+    "name": "erics-true-random",
+    "max_player_count": 7,
+    "bases": [
+        {
+            "uid": 1,
+            "player_id": 1,
+            "population": 19,
+            "level": 2,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": 15,
+                "y": -2,
+                "z": 17
+            }
+        },
+        {
+            "uid": 2,
+            "player_id": 2,
+            "population": 87,
+            "level": 3,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": 21,
+                "y": 3,
+                "z": -17
+            }
+        },
+        {
+            "uid": 3,
+            "player_id": 3,
+            "population": 80,
+            "level": 0,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": 14,
+                "y": -4,
+                "z": -10
+            }
+        },
+        {
+            "uid": 4,
+            "player_id": 4,
+            "population": 38,
+            "level": 3,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": -18,
+                "y": -5,
+                "z": 11
+            }
+        },
+        {
+            "uid": 5,
+            "player_id": 5,
+            "population": 20,
+            "level": 4,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": -2,
+                "y": 2,
+                "z": 7
+            }
+        },
+        {
+            "uid": 6,
+            "player_id": 6,
+            "population": 59,
+            "level": 2,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": -18,
+                "y": 10,
+                "z": 6
+            }
+        },
+        {
+            "uid": 7,
+            "player_id": 7,
+            "population": 7,
+            "level": 0,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": 23,
+                "y": -25,
+                "z": -20
+            }
+        },
+        {
+            "uid": 8,
+            "player_id": 4,
+            "population": 89,
+            "level": 1,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": 14,
+                "y": 23,
+                "z": -14
+            }
+        },
+        {
+            "uid": 9,
+            "player_id": 6,
+            "population": 35,
+            "level": 2,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": 0,
+                "y": 14,
+                "z": 21
+            }
+        },
+        {
+            "uid": 10,
+            "player_id": 1,
+            "population": 82,
+            "level": 0,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": 18,
+                "y": -11,
+                "z": -15
+            }
+        },
+        {
+            "uid": 11,
+            "player_id": 1,
+            "population": 51,
+            "level": 1,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": 11,
+                "y": -8,
+                "z": 20
+            }
+        },
+        {
+            "uid": 12,
+            "player_id": 3,
+            "population": 41,
+            "level": 1,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": 6,
+                "y": -21,
+                "z": -25
+            }
+        },
+        {
+            "uid": 13,
+            "player_id": 4,
+            "population": 14,
+            "level": 1,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": -5,
+                "y": 17,
+                "z": 9
+            }
+        },
+        {
+            "uid": 14,
+            "player_id": 4,
+            "population": 20,
+            "level": 1,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": -10,
+                "y": 15,
+                "z": -23
+            }
+        },
+        {
+            "uid": 15,
+            "player_id": 5,
+            "population": 73,
+            "level": 3,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": -22,
+                "y": -11,
+                "z": -9
+            }
+        },
+        {
+            "uid": 16,
+            "player_id": 4,
+            "population": 84,
+            "level": 4,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": 14,
+                "y": -5,
+                "z": 12
+            }
+        },
+        {
+            "uid": 17,
+            "player_id": 3,
+            "population": 89,
+            "level": 4,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": 15,
+                "y": -16,
+                "z": 10
+            }
+        },
+        {
+            "uid": 18,
+            "player_id": 2,
+            "population": 81,
+            "level": 0,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": 6,
+                "y": 13,
+                "z": -7
+            }
+        },
+        {
+            "uid": 19,
+            "player_id": 7,
+            "population": 74,
+            "level": 0,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": -7,
+                "y": -7,
+                "z": 25
+            }
+        },
+        {
+            "uid": 20,
+            "player_id": 1,
+            "population": 30,
+            "level": 1,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": -2,
+                "y": 9,
+                "z": -7
+            }
+        },
+        {
+            "uid": 21,
+            "player_id": 3,
+            "population": 45,
+            "level": 4,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": -11,
+                "y": -21,
+                "z": 19
+            }
+        },
+        {
+            "uid": 22,
+            "player_id": 1,
+            "population": 36,
+            "level": 0,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": 0,
+                "y": -11,
+                "z": 19
+            }
+        },
+        {
+            "uid": 23,
+            "player_id": 7,
+            "population": 79,
+            "level": 4,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": 3,
+                "y": -13,
+                "z": 2
+            }
+        },
+        {
+            "uid": 24,
+            "player_id": 0,
+            "population": 86,
+            "level": 4,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": -13,
+                "y": -6,
+                "z": 12
+            }
+        },
+        {
+            "uid": 25,
+            "player_id": 5,
+            "population": 43,
+            "level": 4,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": -23,
+                "y": 18,
+                "z": 16
+            }
+        },
+        {
+            "uid": 26,
+            "player_id": 2,
+            "population": 34,
+            "level": 3,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": -8,
+                "y": -1,
+                "z": -9
+            }
+        },
+        {
+            "uid": 27,
+            "player_id": 0,
+            "population": 73,
+            "level": 0,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": 24,
+                "y": 15,
+                "z": 19
+            }
+        },
+        {
+            "uid": 28,
+            "player_id": 0,
+            "population": 94,
+            "level": 0,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": -5,
+                "y": -22,
+                "z": -1
+            }
+        },
+        {
+            "uid": 29,
+            "player_id": 1,
+            "population": 98,
+            "level": 4,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": -7,
+                "y": -6,
+                "z": -6
+            }
+        },
+        {
+            "uid": 30,
+            "player_id": 7,
+            "population": 99,
+            "level": 0,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": 1,
+                "y": -9,
+                "z": -13
+            }
+        }
+    ]
+}
