@@ -1,0 +1,78 @@
+{
+    "name": "erics-1v1-random",
+    "max_player_count": 2,
+    "bases": [
+        {
+            "uid": 1,
+            "player_id": 1,
+            "population": 84,
+            "level": 3,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": 0,
+                "y": -7,
+                "z": -3
+            }
+        },
+        {
+            "uid": 2,
+            "player_id": 2,
+            "population": 64,
+            "level": 2,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": 5,
+                "y": -2,
+                "z": 2
+            }
+        },
+        {
+            "uid": 1,
+            "player_id": 0,
+            "population": 2,
+            "level": 0,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": -5,
+                "y": -7,
+                "z": -5
+            }
+        },
+        {
+            "uid": 1,
+            "player_id": 0,
+            "population": 38,
+            "level": 1,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": -7,
+                "y": -6,
+                "z": -3
+            }
+        },
+        {
+            "uid": 1,
+            "player_id": 0,
+            "population": 92,
+            "level": 1,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": 7,
+                "y": 10,
+                "z": 2
+            }
+        },
+        {
+            "uid": 1,
+            "player_id": 0,
+            "population": 81,
+            "level": 0,
+            "units_until_upgrade": 0,
+            "base_position": {
+                "x": 5,
+                "y": 7,
+                "z": 3
+            }
+        }
+    ]
+}
