@@ -1,6 +1,6 @@
 {
     "name": "smallCube",
-    "max_player_count": 10,
+    "max_player_count": 4,
     "bases": [
         {"uid":  0, "player_id": 0, "population": 100, "level": 0, "units_until_upgrade": 0, "base_position": {"x":  0, "y":  0, "z":  0}},
         
