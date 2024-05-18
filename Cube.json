@@ -2,6 +2,8 @@
     "name": "Cube",
     "max_player_count": 8,
     "bases": [
+        {"uid":  0, "player_id": 0, "population": 1000, "level": 0, "units_until_upgrade": 0, "base_position": {"x":  0, "y":  0, "z":  0}},
+        
         {"uid":  1, "player_id": 1, "population": 1, "level": 0, "units_until_upgrade": 0, "base_position": {"x":  10, "y":  10, "z":  10}},
         {"uid":  2, "player_id": 2, "population": 1, "level": 0, "units_until_upgrade": 0, "base_position": {"x":  10, "y":  10, "z": -10}},
         {"uid":  3, "player_id": 3, "population": 1, "level": 0, "units_until_upgrade": 0, "base_position": {"x":  10, "y": -10, "z":  10}},
