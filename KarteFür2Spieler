@@ -1,0 +1,22 @@
+{
+  "name": "vertical-symmetry-duel",
+  "max_player_count": 2,
+  "bases": [
+    {
+      "uid": 1,
+      "player_id": 1,
+      "population": 10,
+      "level": 2,
+      "units_until_upgrade": 0,
+      "base_position": {"x": 0, "y": -15, "z": 0}
+    },
+    {
+      "uid": 2,
+      "player_id": 2,
+      "population": 10,
+      "level": 2,
+      "units_until_upgrade": 0,
+      "base_position": {"x": 0, "y":15, "z": 0}
+    }
+  ]
+}
