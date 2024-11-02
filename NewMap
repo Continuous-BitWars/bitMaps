@@ -1,0 +1,20 @@
+"name": "sixteen-square-symmetry",
+  "max_player_count": 16,
+  "bases": [
+    {"uid": 1, "player_id": 1, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x": -7, "y": 7, "z": 0}},
+    {"uid": 2, "player_id": 2, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x": -3, "y": 7, "z": 0}},
+    {"uid": 3, "player_id": 3, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x": 1, "y": 7, "z": 0}},
+    {"uid": 4, "player_id": 4, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x": 5, "y": 7, "z": 0}},
+    {"uid": 5, "player_id": 5, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x": -7, "y": 3, "z": 0}},
+    {"uid": 6, "player_id": 6, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x": -3, "y": 3, "z": 0}},
+    {"uid": 7, "player_id": 7, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x": 1, "y": 3, "z": 0}},
+    {"uid": 8, "player_id": 8, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x": 5, "y": 3, "z": 0}},
+    {"uid": 9, "player_id": 9, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x": -7, "y": -1, "z": 0}},
+    {"uid": 10, "player_id": 10, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x": -3, "y": -1, "z": 0}},
+    {"uid": 11, "player_id": 11, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x": 1, "y": -1, "z": 0}},
+    {"uid": 12, "player_id": 12, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x": 5, "y": -1, "z": 0}},
+    {"uid": 13, "player_id": 13, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x": -7, "y": -5, "z": 0}},
+    {"uid": 14, "player_id": 14, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x": -3, "y": -5, "z": 0}},
+    {"uid": 15, "player_id": 15, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x": 1, "y": -5, "z": 0}},
+    {"uid": 16, "player_id": 16, "population": 20, "level": 1, "units_until_upgrade": 0, "base_position": {"x": 5, "y": -5, "z": 0}}
+  ]
