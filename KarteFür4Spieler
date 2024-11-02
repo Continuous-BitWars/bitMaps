@@ -1,0 +1,38 @@
+{
+  "name": "cross-symmetry",
+  "max_player_count": 4,
+  "bases": [
+    {
+      "uid": 1,
+      "player_id": 1,
+      "population": 15,
+      "level": 2,
+      "units_until_upgrade": 0,
+      "base_position": {"x": -5, "y": 5, "z": 0}
+    },
+    {
+      "uid": 2,
+      "player_id": 2,
+      "population": 15,
+      "level": 2,
+      "units_until_upgrade": 0,
+      "base_position": {"x": 5, "y": 5, "z": 0}
+    },
+    {
+      "uid": 3,
+      "player_id": 3,
+      "population": 15,
+      "level": 2,
+      "units_until_upgrade": 0,
+      "base_position": {"x": -5, "y": -5, "z": 0}
+    },
+    {
+      "uid": 4,
+      "player_id": 4,
+      "population": 15,
+      "level": 2,
+      "units_until_upgrade": 0,
+      "base_position": {"x": 5, "y": -5, "z": 0}
+    }
+  ]
+}
