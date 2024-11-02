@@ -1,0 +1,21 @@
+{
+  "name": "pentagonal-dimension-symmetry",
+  "max_player_count": 15,
+  "bases": [
+    {"uid": 1, "player_id": 1, "population": 7, "level": 1, "units_until_upgrade": 0, "base_position": {"x": 0, "y": 0, "z": 7}},
+    {"uid": 2, "player_id": 2, "population": 7, "level": 1, "units_until_upgrade": 0, "base_position": {"x": 6, "y": 0, "z": 5}},
+    {"uid": 3, "player_id": 3, "population": 7, "level": 1, "units_until_upgrade": 0, "base_position": {"x": -6, "y": 0, "z": 5}},
+    {"uid": 4, "player_id": 4, "population": 7, "level": 1, "units_until_upgrade": 0, "base_position": {"x": 6, "y": 0, "z": -5}},
+    {"uid": 5, "player_id": 5, "population": 7, "level": 1, "units_until_upgrade": 0, "base_position": {"x": -6, "y": 0, "z": -5}},
+    {"uid": 6, "player_id": 6, "population": 7, "level": 1, "units_until_upgrade": 0, "base_position": {"x": 3, "y": 6, "z": 4}},
+    {"uid": 7, "player_id": 7, "population": 7, "level": 1, "units_until_upgrade": 0, "base_position": {"x": -3, "y": 6, "z": 4}},
+    {"uid": 8, "player_id": 8, "population": 7, "level": 1, "units_until_upgrade": 0, "base_position": {"x": 3, "y": -6, "z": 4}},
+    {"uid": 9, "player_id": 9, "population": 7, "level": 1, "units_until_upgrade": 0, "base_position": {"x": -3, "y": -6, "z": 4}},
+    {"uid": 10, "player_id": 10, "population": 7, "level": 1, "units_until_upgrade": 0, "base_position": {"x": 3, "y": 6, "z": -4}},
+    {"uid": 11, "player_id": 11, "population": 7, "level": 1, "units_until_upgrade": 0, "base_position": {"x": -3, "y": 6, "z": -4}},
+    {"uid": 12, "player_id": 12, "population": 7, "level": 1, "units_until_upgrade": 0, "base_position": {"x": 3, "y": -6, "z": -4}},
+    {"uid": 13, "player_id": 13, "population": 7, "level": 1, "units_until_upgrade": 0, "base_position": {"x": -3, "y": -6, "z": -4}},
+    {"uid": 14, "player_id": 14, "population": 7, "level": 1, "units_until_upgrade": 0, "base_position": {"x": 0, "y": 7, "z": 0}},
+    {"uid": 15, "player_id": 15, "population": 7, "level": 1, "units_until_upgrade": 0, "base_position": {"x": 0, "y": -7, "z": 0}}
+  ]
+}
