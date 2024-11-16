@@ -1,0 +1,24 @@
+{
+    "name": "Leage of Legends",
+    "max_player_count": 2,
+    "bases": [
+        {"uid":  1, "player_id": 1, "population": 1, "level": 1, "units_until_upgrade": 0, "base_position": {"x":  20, "y":  0, "z":   0}},
+        {"uid":  2, "player_id": 2, "population": 1, "level": 1, "units_until_upgrade": 0, "base_position": {"x":   0, "y": -20, "z":  0}},
+
+        {"uid":  3, "player_id": 0, "population": 750, "level": 3, "units_until_upgrade": 0, "base_position": {"x":   3, "y":  -3, "z":   0}},
+        {"uid":  4, "player_id": 0, "population": 750, "level": 3, "units_until_upgrade": 0, "base_position": {"x":  17, "y": -17, "z":   0}},
+
+        {"uid":  5, "player_id": 0, "population": 1000, "level": 4, "units_until_upgrade": 0, "base_position": {"x":  10, "y": -10, "z":   0}},
+        {"uid":  6, "player_id": 0, "population": 500, "level": 3, "units_until_upgrade": 0, "base_position": {"x":   5, "y": -15, "z":   0}},
+        {"uid":  7, "player_id": 0, "population": 500, "level": 3, "units_until_upgrade": 0, "base_position": {"x":  15, "y":  -5, "z":   0}},
+
+        {"uid":  8, "player_id": 0, "population": 1, "level": 1, "units_until_upgrade": 0, "base_position": {"x":  11, "y":  -1, "z":   0}},
+        {"uid":  9, "player_id": 0, "population": 1, "level": 1, "units_until_upgrade": 0, "base_position": {"x":   9, "y": -19, "z":   0}},
+
+        {"uid": 10, "player_id": 0, "population": 200, "level": 0, "units_until_upgrade": 0, "base_position": {"x":   7, "y":  -7, "z":   0}},
+        {"uid": 11, "player_id": 0, "population": 200, "level": 0, "units_until_upgrade": 0, "base_position": {"x":  13, "y": -13, "z":   0}},
+
+        {"uid": 12, "player_id": 0, "population": 1, "level": 1, "units_until_upgrade": 0, "base_position": {"x":   2, "y": -11, "z":   0}},
+        {"uid": 13, "player_id": 0, "population": 1, "level": 1, "units_until_upgrade": 0, "base_position": {"x":  18, "y":  -9, "z":   0}}
+    ]
+}
