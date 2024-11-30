@@ -1,0 +1,70 @@
+{
+  "name": "cube-symmetry-challenge",
+  "max_player_count": 8,
+  "bases": [
+    {
+      "uid": 1,
+      "player_id": 1,
+      "population": 10,
+      "level": 1,
+      "units_until_upgrade": 0,
+      "base_position": {"x": 5, "y": 5, "z": 5}
+    },
+    {
+      "uid": 2,
+      "player_id": 2,
+      "population": 10,
+      "level": 1,
+      "units_until_upgrade": 0,
+      "base_position": {"x": -5, "y": 5, "z": 5}
+    },
+    {
+      "uid": 3,
+      "player_id": 3,
+      "population": 10,
+      "level": 1,
+      "units_until_upgrade": 0,
+      "base_position": {"x": 5, "y": -5, "z": 5}
+    },
+    {
+      "uid": 4,
+      "player_id": 4,
+      "population": 10,
+      "level": 1,
+      "units_until_upgrade": 0,
+      "base_position": {"x": -5, "y": -5, "z": 5}
+    },
+    {
+      "uid": 5,
+      "player_id": 5,
+      "population": 10,
+      "level": 1,
+      "units_until_upgrade": 0,
+      "base_position": {"x": 5, "y": 5, "z": -5}
+    },
+    {
+      "uid": 6,
+      "player_id": 6,
+      "population": 10,
+      "level": 1,
+      "units_until_upgrade": 0,
+      "base_position": {"x": -5, "y": 5, "z": -5}
+    },
+    {
+      "uid": 7,
+      "player_id": 7,
+      "population": 10,
+      "level": 1,
+      "units_until_upgrade": 0,
+      "base_position": {"x": 5, "y": -5, "z": -5}
+    },
+    {
+      "uid": 8,
+      "player_id": 8,
+      "population": 10,
+      "level": 1,
+      "units_until_upgrade": 0,
+      "base_position": {"x": -5, "y": -5, "z": -5}
+    }
+  ]
+}
