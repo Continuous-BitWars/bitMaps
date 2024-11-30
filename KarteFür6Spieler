@@ -1,0 +1,54 @@
+{
+  "name": "3d-hexagonal-symmetry",
+  "max_player_count": 6,
+  "bases": [
+    {
+      "uid": 1,
+      "player_id": 1,
+      "population": 7,
+      "level": 1,
+      "units_until_upgrade": 0,
+      "base_position": {"x": 4, "y": 0, "z": 5}
+    },
+    {
+      "uid": 2,
+      "player_id": 2,
+      "population": 7,
+      "level": 1,
+      "units_until_upgrade": 0,
+      "base_position": {"x": -4, "y": 0, "z": 5}
+    },
+    {
+      "uid": 3,
+      "player_id": 3,
+      "population": 7,
+      "level": 1,
+      "units_until_upgrade": 0,
+      "base_position": {"x": 2, "y": 4, "z": -5}
+    },
+    {
+      "uid": 4,
+      "player_id": 4,
+      "population": 7,
+      "level": 1,
+      "units_until_upgrade": 0,
+      "base_position": {"x": -2, "y": 4, "z": -5}
+    },
+    {
+      "uid": 5,
+      "player_id": 5,
+      "population": 7,
+      "level": 1,
+      "units_until_upgrade": 0,
+      "base_position": {"x": 2, "y": -4, "z": -5}
+    },
+    {
+      "uid": 6,
+      "player_id": 6,
+      "population": 7,
+      "level": 1,
+      "units_until_upgrade": 00,
+      "base_position": {"x": -2, "y": -4, "z": -5}
+    }
+  ]
+}
